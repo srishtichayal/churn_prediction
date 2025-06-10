@@ -6,4 +6,4 @@ Built an XGBoost-based model to predict customer churn using a public dataset fr
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 - [Sci-kit Learn](https://scikit-learn.org/stable/)
 - [Pandas](https://pandas.pydata.org/docs/)
-- [Dataset from Hugging Face]([https://www.physionet.org/content/mitdb/1.0.0/](https://huggingface.co/datasets/aai510-group1/telco-customer-churn))
+- [Dataset from Hugging Face](https://huggingface.co/datasets/aai510-group1/telco-customer-churn)
